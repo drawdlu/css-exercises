@@ -1,8 +1,8 @@
-#clickLeft {
+.clickLeft {
     background-color: black;
     color: white;
 }
 
-#clickRight {
+.clickRight {
     background-color: yellow;
 }
